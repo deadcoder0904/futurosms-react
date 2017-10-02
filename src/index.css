@@ -10,3 +10,14 @@ html {
   font-family: "Raleway";
   src: local("Raleway"), url(./assets/Raleway-Light.ttf) format("ttf");
 }
+
+.img {
+  width: 1000px;
+  height: 900px;
+}
+
+@media screen and (max-width: 400px) {
+  .img {
+    width: 600px;
+  }
+}

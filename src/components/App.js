@@ -22,12 +22,7 @@ const App = () => (
     <Subtitle>Write SMS ahead of time & send them in the future</Subtitle>
 
     <Wrapper>
-      <img
-        src={imgs[0]}
-        alt="Futuro SMS pic with frame"
-        width="1000"
-        height="900"
-      />
+      <img src={imgs[0]} alt="Futuro SMS pic with frame" className="img" />
     </Wrapper>
     <Header># Features</Header>
     <Wrapper>{renderCard(features)}</Wrapper>
