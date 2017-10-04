@@ -52,8 +52,7 @@ export const btns = [
   {
     alt: "Google Play",
     src: require("./../assets/google-play-badge.png"),
-    href:
-      "https://play.google.com/store/apps/details?id=com.deadcoder0904.futurosms"
+    href: "https://play.google.com/store/apps/details?id=com.futurosms"
   }
 ];
 
