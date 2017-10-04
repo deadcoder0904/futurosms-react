@@ -44,7 +44,7 @@ export const uses = [
   {
     title: "Grocery Store",
     text:
-      "Want your spouse to bring Grocery in the evening but can't take your phone with you in the evening? Enter message now & select appropriate time & send it later."
+      "Want your spouse to bring Grocery in the evening but can't take your phone with you in the evening? Enter message now & select appropriate time & it will be sent later."
   }
 ];
 
