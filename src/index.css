@@ -12,12 +12,19 @@ html {
 }
 
 .img {
-  width: 1000px;
-  height: 900px;
+  padding: 2em;
+  width: 360px;
+  height: 650px;
 }
 
 @media screen and (max-width: 400px) {
   .img {
-    width: 800px;
+    width: 100%;
   }
+}
+
+#privacy {
+  display: block;
+  color: white;
+  text-align: center;
 }

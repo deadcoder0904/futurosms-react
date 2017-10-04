@@ -30,6 +30,14 @@ const App = () => (
     <Wrapper>{renderCard(uses)}</Wrapper>
     <Header># Available On</Header>
     <Wrapper>{renderBtns(btns)}</Wrapper>
+    <a
+      id="privacy"
+      href="https://deadcoder0904.github.io/privacy-policy/futurosms"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Privacy Policy
+    </a>
   </div>
 );
 

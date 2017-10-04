@@ -57,6 +57,6 @@ export const btns = [
   }
 ];
 
-const imgs = [require("./../assets/list-upcoming.png")];
+const imgs = [require("./../assets/mockup.png")];
 
 export default imgs;
